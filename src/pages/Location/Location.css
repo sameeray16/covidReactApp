@@ -1,0 +1,39 @@
+.btn-add{
+    width: fit-content;
+    border: 2px solid #000;
+    border-radius: 20%;
+    display: block;
+    margin: 0  auto;
+}
+
+.btn-add:hover{
+    background-color: lawngreen;
+}
+
+.loc-div{
+    margin: 20px 0 ;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.heading{
+    padding: 10px;
+}
+
+.listcentre{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.delBtn{
+    width: fit-content;
+    border: 2px solid #000;
+    border-radius: 20%;
+    font-weight: 500;
+}
+
+.delBtn:hover{
+    background-color: red;
+}

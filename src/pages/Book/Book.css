@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+#btn{
+    width: fit-content;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20%;
+    border: 2px solid #000;
+}
+
+#btn:hover{
+    background-color: greenyellow;
+}
